@@ -1,0 +1,28 @@
+scoring details 
+Topic Level Scoring:
+Apache Spark Architecture and Components: 100%
+Using Spark SQL: 100%
+Developing Apache Spark™ DataFrame/DataSet API Applications: 75%
+Troubleshooting and Tuning Apache Spark DataFrame API Applications: 100%
+Structured Streaming: 60%
+Using Spark Connect to deploy applications: 50%
+Using Pandas API on Spark: 0%
+
+original weightage 
+Apache Spark Architecture and Components - 20%
+ 
+Using Spark SQL - 20%
+ 
+Developing Apache Spark™ DataFrame/DataSet API Applications - 30%
+ 
+Troubleshooting and Tuning Apache Spark DataFrame API Applications - 10%
+ 
+Structured Streaming - 10%
+ 
+Using Spark Connect to deploy applications - 5%
+ 
+Using Pandas API on Apache Spark - 5%
+
+Total number of scored questions: 45
+ 
+Time limit: 90 minutes
